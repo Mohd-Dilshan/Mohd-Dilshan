@@ -11,7 +11,8 @@
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Dilshan&theme=dark)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Dilshan&theme=dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohd-Dilshan&theme=dark)
+
+<!-- ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohd-Dilshan&theme=dark) -->
 
 [![](https://visitcount.itsvg.in/api?id=Mohd-Dilshan&icon=0&color=0)](https://visitcount.itsvg.in)
 
