@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hello, I'm Mohd Dilshan<br>I'm a CSE student at Invertis University (2023-2027) specializing in full-stack development and<br>AI-driven solutions. I work with Java, Python, modern web technologies,<br>Machine Learning, Deep Learning, Data Analytics, and Advanced AI to build scalable,<br>intelligent applications.<br><br>💡 Technical Expertise<br>Frontend Development: HTML5, CSS3, JavaScript (ES6+), React, Angular<br>Backend Development: Java, Python, C Programming, Flask Framework, RESTful API Design, Object-Oriented Programming Principles<br>Database Management: MySQL, MongoDB<br>Data Science & Machine Learning: Machine Learning Algorithms, Deep Learning, Advanced Analytics, Data Analysis<br>Development Tools: Git, GitHub, Eclipse IDE, Visual Studio Code, Jupyter Notebook<br>Deployment & Hosting: Render, Cloud Deployment<br><br>📫 Let's Connect<br>I'm always excited to collaborate on interesting projects,<br>discuss software architecture, or explore new technologies.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohddilshan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-dilshan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohdDilshan_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohddilshaninvertian@gmail.com) 
 
